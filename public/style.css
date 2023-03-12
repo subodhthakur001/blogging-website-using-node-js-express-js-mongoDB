@@ -1,0 +1,32 @@
+* 
+{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color: #B2BEBF;
+
+}
+.nav-item{
+    padding:2px;
+}
+
+.nav-link{
+    color: azure;
+}
+.body{
+    padding: 30px;
+    height: 550px;
+
+}
+
+.footer{
+     background-color: #B2BEBF;
+     height: 100px;
+     text-align: center;
+     color: azure;
+}
+.footer p
+{
+    padding: 36px;
+}
